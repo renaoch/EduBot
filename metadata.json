@@ -1,0 +1,6 @@
+{
+  "name": "Remix: EduBot: Personal Study Assistant",
+  "description": "A WhatsApp-based knowledge management bot that helps students store and retrieve study resources, notes, and links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
